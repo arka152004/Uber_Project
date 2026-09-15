@@ -1,0 +1,2 @@
+ALTER TABLE driver
+    ADD COLUMN address VARCHAR(255) NULL;

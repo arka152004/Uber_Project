@@ -1,0 +1,2 @@
+ALTER TABLE passenger
+    ADD COLUMN email VARCHAR(255) NULL;

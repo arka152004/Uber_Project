@@ -1,0 +1,13 @@
+package com.arka.uberprojectlocationservice.dto;
+
+import lombok.*;
+
+@Getter
+@Setter
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
+public class NearbyDriversRequestDto {
+   private double latitude;
+   private double longitude;
+}
