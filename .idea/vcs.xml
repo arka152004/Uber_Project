@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProductService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Uber-BookingService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Uber-ReviewService_" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UberProject-AuthService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UberProject-LocationService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UberProject-SocketService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UberSErviceDiscovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/uberproject-entityservice" vcs="Git" />
+  </component>
+</project>
